@@ -7,8 +7,7 @@ Hi there 👋 I'm Loc V. Pham
 
 🚀 About Me  
 - 🔭 Currently learning: Python, C++, Linear Algebra, Calculus  
-- 🧠 Research interests: Artificial Intelligence, Deep Learning, and Natural Language Processing (NLP)  
-- 🎯 Long-term goal: Build a strong theoretical and practical foundation to pursue a Ph.D. in AI abroad  
+- 🎯 Focus: building strong foundations in computer science, mathematics, and AI
 - ⚡ Fun fact: I transitioned from Linguistics to Computer Science to bridge human language and machine intelligence  
 
 ---
