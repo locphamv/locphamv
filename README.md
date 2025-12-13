@@ -1,4 +1,4 @@
-Hi there 👋 I'm Loc V. Pham  
+### Hi there 👋 I'm Loc V. Pham  
 
 🎓 Freshman in Computer Science at University of Information Technology (UIT), VNU-HCM  
 🌏 Background in English specialization (IELTS 7.5)
