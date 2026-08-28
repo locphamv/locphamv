@@ -10,7 +10,10 @@
 - Learning to read research papers, starting with YOLOv1
 
 🌏 IELTS 7.5
+
 ---
+
+### Technical Skills
 
 ### Technical Skills
 
