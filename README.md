@@ -1,28 +1,19 @@
-### Hi 👋 I'm Loc V. Pham
+# Hi, I'm Loc 👋
 
-🎓 Second-year Computer Science student at UIT, VNU-HCM
+Second-year Computer Science student at **UIT – VNU-HCM**, focused on **AI Engineering** and interested in **Machine Learning, Computer Vision, and research**.
 
-🤖 Interested in Machine Learning, Computer Vision, and AI Engineering
+- 🧠 Building strong foundations in ML, Deep Learning, and Computer Vision
+- 🛠️ Interested in both model development and end-to-end AI systems
+- 🔬 Exploring research and real-world AI projects
+- 🌍 IELTS 7.5 — comfortable reading technical papers and documentation
 
-🔬 Currently:
-- Building an end-to-end machine learning project
-- Studying Deep Learning and Computer Vision fundamentals
-- Learning to read research papers, starting with YOLOv1
+### Tech
+`Python` `C++` `PyTorch` `scikit-learn` `FastAPI` `Git`
 
-🌏 IELTS 7.5
+### Current focus
+Computer Vision · Deep Learning · AI Engineering
 
----
-
-### Technical Skills
-
-### Technical Skills
-
-- Languages: Python, C++
-- Machine Learning: scikit-learn, model evaluation, preprocessing,
-  pipelines, cross-validation, hyperparameter tuning
-- Backend: FastAPI
-- Tools: Git, GitHub, VS Code
-- Currently exploring: Deep Learning, PyTorch, Computer Vision
+📫 Feel free to explore my projects below.
 
 ### 📫 Connect
 - **Email:** locpv2k7@gmail.com
